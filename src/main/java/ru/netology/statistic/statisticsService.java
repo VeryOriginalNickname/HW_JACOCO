@@ -10,4 +10,4 @@ public class statisticsService {
         }
         return currentMax;
     }
-}git 
+}
